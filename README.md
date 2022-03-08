@@ -2,6 +2,8 @@
 
 Website for testing mouse accuracy
 
+Try now: https://trard.github.io/mouse-accuracy-test/
+
 ## Dependencies
 
 Only [Vite](https://vitejs.dev/) for development and bundling.
