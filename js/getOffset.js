@@ -1,4 +1,4 @@
-import Pos from "./Pos";
+import Pos from "./Pos.js";
 
 var lastPos;
 

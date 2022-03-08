@@ -1,5 +1,5 @@
 import "../style.css";
-import getOffset from "./getOffset";
+import getOffset from "./getOffset,js";
 
 function printOffset(event) {
     var offsetElem = document.getElementById("offset");
