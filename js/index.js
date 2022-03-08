@@ -1,4 +1,3 @@
-import "../style.css";
 import getOffset from "./getOffset.js";
 
 function printOffset(event) {
